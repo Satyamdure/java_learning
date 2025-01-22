@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class UseMap {
+public class MapUsing {
     public static void main(String[] args) {
 
         //Create a HashMap
